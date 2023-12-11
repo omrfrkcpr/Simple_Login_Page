@@ -23,6 +23,9 @@ Simple_Login_Page (folder)
 
 ## Expected Outcome
 
+![LoginPage](https://github.com/omrfrkcpr/Simple_Login_Page/assets/77440899/01023db7-7c63-43c4-8472-8aa14e4955c9)
+
+
 ### At the end of the project, following topics are to be covered;
 
 - HTML
