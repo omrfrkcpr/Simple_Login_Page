@@ -21,12 +21,11 @@ Simple_Login_Page (folder)
 |----LoginPage.png
 ```
 
-## Expected Outcome
+## Outcome
 
 ![LoginPage](https://github.com/omrfrkcpr/Simple_Login_Page/assets/77440899/01023db7-7c63-43c4-8472-8aa14e4955c9)
 
-
-### At the end of the project, following topics are to be covered;
+### At the end of the project, following topics are covered;
 
 - HTML
 
@@ -39,7 +38,7 @@ Simple_Login_Page (folder)
 
 - By working on this project, you can enhance your HTML and CSS skills, practice responsive design, and gain hands-on experience in building a user interface.
 
-### At the end of the project, We will be able to;
+### At the end of the project, will be able to;
 
 - improve coding skills within HTML & CSS
 
